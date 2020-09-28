@@ -9,3 +9,10 @@ git clone https://github.com/Sumbicreaters/pass_gen.git
 cd pass_gen
 ls
 python2 pass_gen.py
+
+
+#follow me on 
+facebook.com/Sumbalstricks.termux.12
+instagram:khansumbal605
+github.com/SUmbicreator
+Youtube.com/Sumbii Tricky World
